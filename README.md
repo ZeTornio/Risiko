@@ -38,7 +38,11 @@ The results are provided in the following format:
 * 0-2: 0.29 \[2275\]
 * 1-1: 0.34 \[2611\]
 * 2-0: 0.37 \[2890\]
-####
+#### 3 VS 3
+* 0-3: 0.38 \[17871\]
+* 1-2: 0.26 \[12348\]
+* 2-1: 0.21 \[10017\]
+* 3-0: 0.14 \[6420\]
 <table>
   <tr>
     <td></td>
@@ -61,8 +65,8 @@ The results are provided in the following format:
   <tr><td>1-1</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>0.32</td><td>0.25</td>  <td>-</td><td>0.34</td><td>-</td></tr>
   <tr><td>0-2</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>0.45</td><td>0.62</td>  <td>-</td><td>0.29</td><td>-</td></tr>
   
-  <tr><td>3-0</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
-  <tr><td>2-1</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
-  <tr><td>1-2</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
-  <tr><td>0-3</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
+  <tr><td>3-0</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>0.14</td></tr>
+  <tr><td>2-1</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>0.21</td></tr>
+  <tr><td>1-2</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>0.26</td></tr>
+  <tr><td>0-3</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>0.38</td></tr>
 </table>
