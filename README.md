@@ -8,6 +8,6 @@ The approach is not pure brute-force, but rather considering all distinct cases 
 Let's see some results!
 
 ## Standard Risiko (D6)
-The results are provided as follows:
-e.g. 
+The results are provided in the following format:
 #### Attacker's dice VS Defender's dice
+* Tanks won by attacker-Tanks won by defender: cases, probability.
