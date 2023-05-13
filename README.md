@@ -7,4 +7,4 @@ The approach is not pure brute-force, but rather considering all distinct cases 
 
 Let's see some results!
 
-##Standard Risiko (D6)
+## Standard Risiko (D6)
