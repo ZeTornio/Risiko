@@ -10,4 +10,4 @@ Let's see some results!
 ## Standard Risiko (D6)
 The results are provided as follows:
 e.g. 
-### Attacker's dice VS Defender's dice
+#### Attacker's dice VS Defender's dice
