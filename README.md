@@ -8,3 +8,6 @@ The approach is not pure brute-force, but rather considering all distinct cases 
 Let's see some results!
 
 ## Standard Risiko (D6)
+The results are provided as follows:
+e.g. 
+### Attacker's dice VS Defender's dice
