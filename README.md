@@ -16,6 +16,7 @@ dice_defender=2
 from risiko import Risiko
 Risiko(n_faces_of_dice,dice_attacker,dice_defender)
 ```
+_The results are for the single attack: obviously if you fail a 3VS1 attack you can try again in a 2VS1!_
 ## Standard Risiko (D6)
 The results are provided in the following format:
 #### Attacker's dice VS Defender's dice
