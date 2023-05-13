@@ -10,7 +10,7 @@ Let's see some results!
 ## Standard Risiko (D6)
 The results are provided in the following format:
 #### Attacker's dice VS Defender's dice
-* Tanks won by attacker-Tanks won by defender:  probability \[cases\].
+* Tanks won by attacker-Tanks won by defender:  probability \[cases\]
 #### 1 VS 1
 * 0-1: 0.58 \[21\]
 * 1-0: 0.42 \[15\]
@@ -30,6 +30,11 @@ The results are provided in the following format:
 * 0-2: 0.45 \[581\]
 * 1-1: 0.32 \[420\]
 * 2-0: 0.23 \[295\]
+#### 2 VS 3
+* 0-2: 0.62 \[4816\]
+* 1-1: 0.25 \[1981\]
+* 2-0: 0.13 \[979\]
+####
 <table>
   <tr>
     <td></td>
@@ -48,9 +53,9 @@ The results are provided in the following format:
   </tr>
   <tr><td>0-1</td> <td>0.58</td><td>0.75</td><td>0.83</td>  <td>0.42</td><td>-</td><td>-</td>  <td>0.34</td><td>-</td><td>-</td></tr>
   
-  <tr><td>2-0</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>0.23</td><td>-</td>  <td>-</td><td></td><td>-</td></tr>
-  <tr><td>1-1</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>0.32</td><td>-</td>  <td>-</td><td></td><td>-</td></tr>
-  <tr><td>0-2</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>0.45</td><td>-</td>  <td>-</td><td></td><td>-</td></tr>
+  <tr><td>2-0</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>0.23</td><td>0.13</td>  <td>-</td><td></td><td>-</td></tr>
+  <tr><td>1-1</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>0.32</td><td>0.25</td>  <td>-</td><td></td><td>-</td></tr>
+  <tr><td>0-2</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>0.45</td><td>0.62</td>  <td>-</td><td></td><td>-</td></tr>
   
   <tr><td>3-0</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td></td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
   <tr><td>2-1</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td></td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
