@@ -31,9 +31,9 @@ The results are provided in the following format:
     <td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td>
   </tr>
   <tr>
-    <td rowspan='9' >Results</td><td>1-0</td><td></td><td></td><td></td> <td></td><td>-</td><td>-</td> <td></td><td>-</td><td>-</td>
+    <td rowspan='9' >Results</td><td>1-0</td><td>0.42</td><td>0.25</td><td>0.27</td> <td></td><td>-</td><td>-</td> <td></td><td>-</td><td>-</td>
   </tr>
-  <tr><td>0-1</td> <td></td><td></td><td></td>  <td></td><td>-</td><td>-</td>  <td></td><td>-</td><td>-</td></tr>
+  <tr><td>0-1</td> <td>0.58</td><td>0.75</td><td>0.83</td>  <td></td><td>-</td><td>-</td>  <td></td><td>-</td><td>-</td></tr>
   
   <tr><td>2-0</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td></td><td>-</td>  <td>-</td><td></td><td>-</td></tr>
   <tr><td>1-1</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td></td><td>-</td>  <td>-</td><td></td><td>-</td></tr>
