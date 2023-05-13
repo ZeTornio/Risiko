@@ -1,4 +1,4 @@
-# Probabilities in Risiko
+# Probabilities in Risiko (and generalization)
 Ever wondered which are the probabilities in Risiko?
 Here you can find the answer!
 
