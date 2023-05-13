@@ -6,15 +6,16 @@ The code is generalized, you can choose the type of dice (_n_ faces), the number
 The approach is not pure brute-force, but rather considering all distinct cases and giving them the proper weights. In this way we can reduce looping but we involve factorials, so beware of choosing very big parameters that can lead to overflow. 
 
 I provide you only the results for "standard" Risiko (max 3 D6s), but I encourage you to see what happens if you chande the number or the type of dice!
-'''
-\#To test you can do this in Python. It will automatically print the results!
+
+```
+#To test you can do this in Python. It will automatically print the results!
 n_faces_of_dice=6
 dice_attacker=3
 dice_defender=2
 
 from risiko import Risiko
 Risiko(n_faces_of_dice,dice_attacker,dice_defender)
-'''
+```
 ## Standard Risiko (D6)
 The results are provided in the following format:
 #### Attacker's dice VS Defender's dice
