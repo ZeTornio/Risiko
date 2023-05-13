@@ -61,8 +61,8 @@ The results are provided in the following format:
   <tr><td>1-1</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>0.32</td><td>0.25</td>  <td>-</td><td>0.34</td><td>-</td></tr>
   <tr><td>0-2</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>0.45</td><td>0.62</td>  <td>-</td><td>0.29</td><td>-</td></tr>
   
-  <tr><td>3-0</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td></td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
-  <tr><td>2-1</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td></td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
-  <tr><td>1-2</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td></td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
-  <tr><td>0-3</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td></td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
+  <tr><td>3-0</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
+  <tr><td>2-1</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
+  <tr><td>1-2</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
+  <tr><td>0-3</td> <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td>-</td>  <td>-</td><td>-</td><td></td></tr>
 </table>
