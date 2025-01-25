@@ -1,5 +1,5 @@
-# Probabilities in Risiko (and generalization)
-Ever wondered which are the probabilities in Risiko?
+# Probabilities in Risk (and generalization)
+Ever wondered which are the probabilities in Risk?
 Here you can find the answer!
 
 The code is generalized, you can choose the type of dice (_n_ faces), the number of dice of the attacker (_m\_att_) and of the defender (_m\_def_).
@@ -17,7 +17,7 @@ from risiko import Risiko
 Risiko(n_faces_of_dice,dice_attacker,dice_defender)
 ```
 _The results are for the single attack: obviously if you fail a 3VS1 attack you can try again in a 2VS1!_
-## Standard Risiko (D6)
+## Standard Risk (D6)
 The results are provided in the following format:
 #### Attacker's dice VS Defender's dice
 * Tanks won by attacker-Tanks won by defender:  probability \[cases\]
